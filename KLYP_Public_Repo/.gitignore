@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+klyp_buffer/
+klyp_work/
+clips/
+*.log
